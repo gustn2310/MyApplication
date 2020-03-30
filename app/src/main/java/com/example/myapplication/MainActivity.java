@@ -11,6 +11,11 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
     }
+
+    @Override
+    protected void onResume() {
+        super.onResume();
+    }
 }
 public class void eraeoga
 egaioehgab aeio eoafbn beafbeu baecm naegbsunc veub bv
